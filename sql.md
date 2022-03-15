@@ -6,7 +6,7 @@
 
 - use nomeDoBanco; -. indica o banco a ser 'editado'
 
-> banco de dados não tem ctrl+z (apenas o script)
+    > banco de dados não tem ctrl+z (apenas o script)
 
 - create table tabelaMtec -> cria tabela dentro do banco de dados
 
@@ -19,3 +19,7 @@
     > not null -> não pode estar vazio (obrigatório)
 
     > primary key (nomeDaChave) -> chave primária
+
+- show tables; -> mostra as tabelas
+
+- desc tabelaMtec; -> mostra a tabela com as propriedades 
