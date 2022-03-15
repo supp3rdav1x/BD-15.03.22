@@ -7,3 +7,6 @@ create table fornecedores(
     email varchar(50),
     primary key (cod)
 );
+
+show tables;
+desc fornecedores;
